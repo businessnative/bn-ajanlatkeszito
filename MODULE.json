@@ -1,0 +1,10 @@
+{
+  "id": "ajanlatkeszito",
+  "title": "Ajánlatkészítő",
+  "group": "Ügyfélszerzés",
+  "description": "Készíts ellenőrizhető, tételes ajánlatot az ügyféligényből.",
+  "number": 3,
+  "repo": "bn-ajanlatkeszito",
+  "baseVersion": "0.2.0",
+  "baseSha256": "2ac86b0161d276dfb52eaed1c061d34fe95bc69ff7e9bbc7c657ee75780285f5"
+}
